@@ -6,3 +6,5 @@ def add(a, b):
 print(add(1, 5))
 
 print(add(2, 6))
+
+print(add(3, 5))
